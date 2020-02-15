@@ -1,0 +1,51 @@
+<table cellpadding="0" cellspacing="0" style="width:100%; border:0; margin:0; padding:0; background:#ffbd00;">
+    <tr>
+        <td style="background:#CC0000;">
+            <div align="center">
+                <table border="0" cellpadding="0" cellspacing="0" style="border-radius: 6px; border:1px solid #910000; overflow: hidden; margin:50px auto; box-shadow: 0 8px 5px #910000;" width="520">
+                    <tr>
+                        <td style="font-size:18px; background:#FFF; text-align:center; padding:20px;">
+                            <img alt="Thrubus" height="46" longdesc="http://www.thrubus.id" src="logo-thrubus.png" width="231"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="background:#FFF; padding:20px 0 0 20px; text-align:center; font-size:18px; border-top:1px solid #BBB;">
+                            Hello NAMA_DRIVER
+                            <br/>
+                            Password: tU-VnB5Q
+                            <br/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="background:#FFF; padding:20px; text-align:center">
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" width="auto">
+                                <tr>
+                                    <td style="background:#ffbd00; padding:15px; margin:0 auto; text-align:center; font-size:18px; color:#FFF; border-radius: 30px; border:1px solid #FFA500; overflow: hidden;">
+                                        Konfirmasi Email Anda
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="color:#888; background:#EEE; padding:20px; border-bottom:6px solid #BBB;">
+                            Saat ini formulir pendaftaran anda sedang menunggu verifikasi dari kami. Konfirmasi penerimaan formulir pendaftaran anda akan kami kirim melalui email. Mohon cek secara berkala email anda. Terima Kasih.
+                            <br/>
+                            <br/>
+                            Segala bentuk informasi seperti nomor kontak, alamat e-mail, atau password kamu bersifat rahasia. Jangan menginformasikan data-data tersebut kepada siapa pun, termasuk kepada pihak yang mengatasnamakan Thrubus.
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+    <tr style="padding:15px auto;">
+        <td style="text-align:center; padding:30px;">
+            Copyright © 2018 THRUBUS. All Rights Reserved
+            <br/>
+            Jalan Gunung Anyar Jaya No.4, Surabaya, Jawa Timur 60294
+            <br/>
+            CS Online: 08785269660
+        </td>
+    </tr>
+</table>
